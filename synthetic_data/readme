@@ -1,0 +1,11 @@
+We provide the simulation code for the example "Synthetic dataset --- covariate shift adaptation"
+
+Different methods are implemented
+
+1) DRO ==> our presented MDI_DRO method
+
+2) ERM ==> classical empirical risk minimization
+
+3) IWERM ==> importance weighted ERM
+
+
